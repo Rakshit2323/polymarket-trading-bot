@@ -1,0 +1,20 @@
+# 15m rolling
+btc-updown-15m
+# Example future window (normally prefer ARBITRAGE_NEXT_SLUG_LAST=3m instead of
+# listing +1 here, otherwise it trades the next window concurrently all the time):
+# btc-updown-15m+1
+# eth-updown-15m
+# sol-updown-15m
+# xrp-updown-15m
+
+# 4h rolling
+# btc-updown-4h
+# xrp-updown-4h
+# sol-updown-4h
+# eth-updown-4h
+
+# hourly ET human slugs
+# bitcoin-up-or-down
+# ethereum-up-or-down
+# solana-up-or-down
+# xrp-up-or-down

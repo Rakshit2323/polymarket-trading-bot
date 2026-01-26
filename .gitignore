@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+out/
+.tmp/
+.gopath/
+.gomodcache/
+.gocache/
+AGENTS.md
+.agent/
+__pycache__/
